@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rss2.xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>My Chemical Romance Podcast</title>
+    <category>Música i Rock</category>
+    <link>http://127.0.0.1:3000/index.html/index.html#enlacepodcast</link>
+    <image>
+      <url>http://127.0.0.1:3000/index.html/index.html/img/logomcr.png</url>
+      <title>My Chemical Romance Podcast</title>
+      <link>http://127.0.0.1:3000/index.html/index.html</link>
+    </image>
+    <description>
+      Podcast sobre el grup musical de Rock Alternatiu, "My Chemical Romance"
+    </description>
+    <lastBuildDate>	Sat, 07 Sep 2002 09:42:31 GMT</lastBuildDate>
+
+
+    <item>
+      <title>The light behind your eyes - My Chemical Romance</title>
+      <description>Àlbum : The Black Parade.</description>
+      <category>Rock alternatiu</category>
+      <guid>http://podcast/index.html/rss2.xml/item001</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-the-light-behind-your-eyes.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Sun, 10 Apr 2022 08:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/s/My-Chemical-Romance-The-Light-Behind-Your-Eyes.mp3" length="3456789" type="audio/mpeg" />
+    </item>
+    
+    <item>
+      <title>Welcome to the Black Parade - My Chemical Romance</title>
+      <description>Àlbum : The Black Parade.</description>
+      <category>Rock alternatiu</category>
+      <guid>http://podcast/index.html/rss2.xml/item002</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-bulletproof-heart.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Fri, 15 Apr 2022 09:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/s/My-Chemical-Romance-Bulletproof-Heart.mp3" length="1234567" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Teenagers - My Chemical Romance</title>
+      <description>Àlbum : The Black Parade.</description>
+      <category>Punk</category>
+      <guid>http://podcast/index.html/rss2.xml/item003</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-teenagers.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Tue, 19 Apr 2022 08:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/c/My-Chemical-Romance-Teenagers.mp3" length="1234567" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Helena - My Chemical Romance</title>
+      <description>Àlbum : Three cheers for sweet revenge.</description>
+      <category>Pop Punk</category>
+      <guid>http://podcast/index.html/rss2.xml/item004</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-helena.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Fri, 22 Apr 2022 08:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/e/My-Chemical-Romance-Helena.mp3" length="1234567" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>House of Wolves - My Chemical Romance</title>
+      <description>Àlbum : The Black Parade.</description>
+      <category>Punk</category>
+      <guid>http://podcast/index.html/rss2.xml/item005</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-house-of-wolves.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Wed, 27 Apr 2022 09:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/s/My-Chemical-Romance-Mama.mp3" length="3456789" type="audio/mpeg" />
+    </item>
+    
+    <item>
+      <title>I'm Not Okay - My Chemical Romance</title>
+      <description>Àlbum : Three cheers for sweet revenge.</description>
+      <category>Punk</category>
+      <guid>http://podcast/index.html/rss2.xml/item006</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-im-not-okay-i-promise.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Thu, 28 Apr 2022 08:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/d/My-Chemical-Romance-Im-Not-Okay-I-Promise.mp3" length="1234567" type="audio/mpeg" />
+    </item>
+
+    
+    <item>
+      <title>Famous Last Words - My Chemical Romance</title>
+      <description>Àlbum : The Black Parade.</description>
+      <category>Rock</category>
+      <guid>http://podcast/index.html/rss2.xml/item007</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-famous-last-words.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Fri, 29 Apr 2022 09:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/c/My-Chemical-Romance-Famous-Last-Words.mp3" length="1234567" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Boy Division - My Chemical Romance</title>
+      <description>Àlbum : Conventional Weapons.</description>
+      <category>Pop Punk</category>
+      <guid>http://podcast/index.html/rss2.xml/item008</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-boy-division.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Sat, 30 Apr 2022 08:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/s/My-Chemical-Romance-Fake-Your-Death.mp3" length="3456789" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Mama - My Chemical Romance</title>
+      <description>Àlbum : The Black Parade.</description>
+      <category>Rock</category>
+      <guid>http://podcast/index.html/rss2.xml/item009</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-mama.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Sun, 01 May 2022 09:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/s/My-Chemical-Romance-The-End.mp3" length="3456789" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Na Na Na - My Chemical Romance</title>
+      <description>Àlbum : Danger Days.</description>
+      <category>Punk</category>
+      <guid>http://podcast/index.html/rss2.xml/item010</guid>
+      <comments>https://only-free-mp3.xyz/getsong/my-chemical-romance-na-na-na-na-na-na-na-na-na-na-na-na.html</comments>
+      <link>https://only-free-mp3.xyz/band/39134-my-chemical-romance.html</link>
+      <pubDate>Sun, 01 May 2022 08:00:00 EST</pubDate>
+      <enclosure url="https://download.only-free-mp3.xyz/e/My-Chemical-Romance-Na-Na-Na-Na-Na-Na-Na-Na-Na-Na-Na-Na.mp3" length="141034479" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
