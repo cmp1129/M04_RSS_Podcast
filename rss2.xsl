@@ -52,12 +52,18 @@
 
         <td><xsl:value-of select="comments"/></td>
         <td><xsl:value-of select="pubDate"/></td>
-        
+     <!--   
         <td>
       <AUDIO controls="" 
         src="https://download.only-free-mp3.xyz/c/My-Chemical-Romance-Teenagers.mp3" type="audio/mpeg"/>
         </td>
-     
+     -->
+  <audio>
+    <xsl:attribute name="controls" >
+    </xsl:attribute>
+    <source src="{enclosure/@url}" xsl:type="{enclosure/@url}"/>
+  </audio>
+
         
     
       </tr>
